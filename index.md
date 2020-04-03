@@ -1,5 +1,5 @@
 ---
-title: CS190J, Spring 2020, richert
+title: CS190J, Spring 2020, Richert
 ---
 
 # {{site.course}}, {{site.quarter}}
