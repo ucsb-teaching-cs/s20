@@ -1,0 +1,94 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
+url: https://ucsb-teaching-cs.github.io 
+baseurl: "/s20"  
+github_url: https://github.com/ucsb-teaching-cs/s20
+
+title: "UCSB Teaching CS"
+course: "CS190J"
+qtr: "S20"
+quarter: "Spring 2019"
+ta_list: ""
+ta_list_full: ""
+instructor: "Wang"
+
+
+start_week: 1
+start_date: 2019-09-22 
+num_weeks: 11
+extra_exam_week: true
+
+
+cal_dates: >                                                                    
+  [                                                                            
+    {"label":"S20 1st day of instruction", "date":"2020-03-30" },              
+    {"label":"Univ Holiday", "date":"2020-05-30" },                          
+    {"label":"S20 instruction ends", "date":"2020-06-05" },                    
+    {"label":"S20 finals start", "date":"2020-06-06" },                        
+    {"label":"S20 finals end", "date":"2020-06-12" },                          
+    {"label":"S20 qtr ends", "date":"2020-06-12" }                              
+  ]
+
+kramdown:
+   parse_block_html: true
+   default_lang: python
+
+
+exclude:
+   - vendor
+include:
+   - _pages
+
+timezone: America/Los_Angeles
+
+collections:
+  papers:
+    output: true
+    permalink: /hwk/:path/
+  hwk:
+    output: true
+    permalink: /hwk/:path/
+    last_before: false
+  info:
+    output: true
+    permalink: /info/:path/
+  lectures:
+    output: true
+    permalink: /lectures/:path/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
+  - 
+    scope:
+      path: ""
+      type: lectures
+    values:
+      layout: lecture
+  - 
+    scope:
+      path: ""
+      type: hwk
+    values:
+      layout: hwk
+  - 
+    scope:
+      path: ""
+      type: info
+    values:
+      layout: info
+  -
+    scope:
+      path: "syllabus.md"
+      type: info
+    values:
+      layout: handout
+
+
