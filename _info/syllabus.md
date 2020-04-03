@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 190J, Fall 2019"
+title: "Syllabus, CMPSC 190J, Spring 2020"
 layout: handout
 ready: true
 ---
