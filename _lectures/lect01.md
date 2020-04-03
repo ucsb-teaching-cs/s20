@@ -39,9 +39,9 @@ For more information please read the syllabus!
 
 * Various assignments related to preparation for being a better mentor, and learning about CS Education.
 
-# Review [H00](/hwk/h00/)
+# Review [H00](ttps://ucsb-teaching-cs.github.io/s20/hwk/h00/)
 
-Bios and photos to share with students. For more information see [h00 writeup](https://ucsb-teaching-cs.github.io/f19/hwk/h00/)
+Bios and photos to share with students. For more information see [h00 writeup](https://ucsb-teaching-cs.github.io/s20/hwk/h00/)
 
 # Some basic teaching tips
 
@@ -50,7 +50,7 @@ Bios and photos to share with students. For more information see [h00 writeup](h
 
 ## Tips
 
-**Don'ts:**
+**Dont's:**
 
 * Don't take control of the students keyboard (without asking)
 * Don't give away the answer (unless they are really stuck, very trivial, very complicated, or student is extremely frustrated)
