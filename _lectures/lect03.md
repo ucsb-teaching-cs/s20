@@ -24,5 +24,5 @@ date: 2020-04-17 12:30:00.00-8:00
 * Observers will take notes on how the tutor worked with the student for various topics.
 * Each tutor will help answer the student questions in 2, 3, and 5 minute timeboxes.
 * After a tutor finishes the explanation, students will switch roles such that everyone will have an opportunity to be a tutor.
-   * For each student, please submit comments on the google form: [https://forms.gle/F12LTd5YTQ9wwykNA](https://forms.gle/F12LTd5YTQ9wwykNA)
+   * For each student observed, please submit comments on the google form: [https://forms.gle/F12LTd5YTQ9wwykNA](https://forms.gle/F12LTd5YTQ9wwykNA)
 
