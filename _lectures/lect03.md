@@ -14,8 +14,9 @@ date: 2020-04-17 12:30:00.00-8:00
    * If you go further afield than that, please check in with your supervising instructor; send them a link to the paper in the Digital Library.  (The "ACM Ref") is a good way to cite it.
 * Please submit your work via gradescope
 
-# Explanation / Observation Flash Card Activity
+# Explanation / Observation Activity
 
+* Look through a list of common questions [here](https://docs.google.com/document/d/1vWwtF-r9RcklYFiB9tkY2j6nJ30fUV8TWMa3rFoWzjk)
 * Break up into groups of 4
 * Two students will be an "observer"
 * One student will be the "tutor"
