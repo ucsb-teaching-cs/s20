@@ -3,7 +3,7 @@ num: "proj03"
 desc: "Creating an Assignment / Tutorial / Lesson for your Students"
 ready: true 
 assigned: 2020-05-08 08:00:00.00-8:00
-due: 2020-06-05 11:59:00.00-8:00
+due: 2020-06-07 11:59:00.00-8:00
 ---
 
 # Description
